@@ -60,19 +60,30 @@ LearnMate solves this by:
 
 ---
 
-## 📸 Screenshots
+<h2>📸 Screenshots</h2>
 
-```markdown
-![Setting up](Assets/Setup.png)
-![Instructions Given](Assets/Instructions.png)
-![Sample questions](Assets/sample questions.png)
-![Tools used](Assets/tools.png)
-![Deployed Agent](Assets/deployed1.png)
-![Prompts](Assets/deployed2.png)(Assets/deployed3.png)
-![API](Assets/api end_points.png)
-```
+<h3>Setting up</h3>
+<img src="Assets/Setup.png" width="60%" />
 
-This will show the images directly in the README.
+<h3>Instructions Given</h3>
+<img src="Assets/Instructions.png" width="60%" />
+
+<h3>Sample Questions</h3>
+<img src="Assets/sample questions.png" width="60%" />
+
+<h3>Tools Used</h3>
+<img src="Assets/tools.png" width="60%" />
+
+<h3>Deployed Agent</h3>
+<img src="Assets/deployed1.png" width="60%" />
+
+<h3>Prompts</h3>
+<img src="Assets/deployed2.png" width="45%" />
+<img src="Assets/deployed3.png" width="45%" />
+
+<h3>API</h3>
+<img src="Assets/api end_points.png" width="60%" />
+
 
 ---
 
